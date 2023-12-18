@@ -6,4 +6,4 @@ Same exercise but written respectively in [D](https://dlang.org/), [Delphi](http
 
 ### Disclaimer
 
-The zig version is too  _convoluted_ because of my poor proficiency of the new but promising language which moreover by design doesn't even have a `String` type... It does well the job anyway. Sorry!
+The zig version is too  _convoluted_ because of my poor proficiency of the new but promising language (it's on my radar ❤️❤️❤️) which moreover by design doesn't even have a `String` type... It does well the job anyway. Sorry!
