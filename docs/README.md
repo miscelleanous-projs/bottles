@@ -1,7 +1,7 @@
 # bottles
 99 Bottles of Beer exercise - My take...
 
-Same exercise but written respectively in [D](https://dlang.org/), [Delphi](https://www.embarcadero.com/products/delphi), [Go](https://go.dev/), [LaTeX](https://www.latex-project.org), [Rust](https://www.rust-lang.org/), [V](https://vlang.io/) and [Zig](https://ziglang.org/).
+Same exercise but written respectively in [D](https://dlang.org/), [Delphi](https://www.embarcadero.com/products/delphi), [Go](https://go.dev/), [LaTeX](https://www.latex-project.org), [Rust](https://www.rust-lang.org/), [Typst](https://typst.app/docs), [V](https://vlang.io/) and [Zig](https://ziglang.org/).
 
 
 ### Disclaimer
